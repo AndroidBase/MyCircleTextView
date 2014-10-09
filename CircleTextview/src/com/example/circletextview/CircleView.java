@@ -8,14 +8,7 @@ import android.graphics.PaintFlagsDrawFilter;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-/**
- * TODO: 自定义圆形的Textview
- * 
- * @author wang.fb
- * @date 2014-9-28 上午11:43:11
- * @version 0.1.0 
- * @copyright Wonhigh Information Technology (Shenzhen) Co.,Ltd.
- */
+
 public class CircleView extends TextView {
 
 	private Paint mBgPaint = new Paint();
